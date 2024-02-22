@@ -35,7 +35,7 @@ You need a Koyeb account to successfully deploy and run this application. If you
 
 The fastest way to deploy the Node Express application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/example-expressjs&branch=main&name=express-on-koyeb)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Ravindu12123/megaxx&branch=main&name=megaxx)
 
 Clicking on this button brings you to the Koyeb App creation page with everything pre-set to launch this application.
 
